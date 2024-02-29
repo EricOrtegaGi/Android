@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Click Counter</string>
+    <string name="total_count">Total Clicks: %d</string>
+    <string name="cps">Clicks Per Second: %d</string>
+</resources>
